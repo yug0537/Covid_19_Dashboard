@@ -11,3 +11,7 @@ As we all know The Pandemic Which Hit globally hit india as well so through this
 - Then we did pareto analysis with the help of cumulative frequency and percentage distribution so that we would be able to find which states are more    affected and which ones are less affected
 - Then we created and inserted some charts on basis of these observation so that we would be able to analyse the data properly
 - And Finally we created a dashboard with the help of these facts
+
+## Dashboard
+<img width="1391" alt="Screenshot 2025-05-03 at 17 50 24" src="https://github.com/user-attachments/assets/ff8ab412-60f1-4237-8857-6d8128e83836" />
+
