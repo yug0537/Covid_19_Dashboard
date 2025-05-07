@@ -18,6 +18,8 @@ As we all know The Pandemic Which Hit globally hit india as well so through this
 
 ## Project Insights
 - Maharashtra,Tamil Nadu,Uttar Pradesh have the maximum Number of cases.
-- Maharashtra,Karnataka,West Bengal have the highest number of Discharged.
+- Maharashtra,Karnataka,Andhra Pradesh have the highest number of Discharged.
 - Nagaland,Manipur,Uttrakhand have the more deaths as comapare to other states.
+## Final Conclusion
+Need to increase medical supplies and facilities in Maharashtra,Tamil Nadu,Uttar Pradesh aand need to find the main causes of deaths in Nagaland,Manipur,Uttrakhand so that more and more people can be saved from disease.
 
